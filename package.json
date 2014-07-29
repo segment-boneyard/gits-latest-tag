@@ -1,0 +1,24 @@
+{
+  "name": "s-git-latest-tag",
+  "version": "1.0.0",
+  "description": "Gets the latest git tag of a repo on GitHub.",
+  "repository": "git://github.com:segmentio/git-latest-tag.git",
+  "main": "index.js",
+  "scripts": {},
+  "dependencies": {
+    "github": "^0.1.16",
+    "thunkify": "~2.1.2"
+  },
+  "devDependencies": {
+    "mocha": "^1.2.0",
+    "co": "^3.0.0"
+  },
+  "keywords": [
+    "git",
+    "github"
+  ],
+  "publishConfig": {
+    "registry": "https://segmentio.registry.nodejitsu.com"
+  },
+  "license": "MIT"
+}
