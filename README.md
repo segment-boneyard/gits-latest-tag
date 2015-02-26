@@ -2,6 +2,10 @@
 
 A lib to get the latest tag of a repo on [Github](https://github.com/).
 
+## Installation
+
+`npm install gits-latest-tag`
+
 ## Example
 
 ```js
