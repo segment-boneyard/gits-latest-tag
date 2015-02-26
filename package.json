@@ -1,8 +1,8 @@
 {
   "name": "gits-latest-tag",
-  "version": "2.0.1",
+  "version": "2.0.2",
   "description": "Gets the latest git tag of a repo on GitHub.",
-  "repository": "git://github.com:segmentio/git-latest-tag.git",
+  "repository": "git://github.com:segmentio/gits-latest-tag.git",
   "main": "index.js",
   "scripts": {},
   "dependencies": {
