@@ -1,5 +1,4 @@
 var assert = require('assert');
-var co = require('co');
 var GitHub = require('github');
 var netrc = require('netrc')();
 var semver = require('semver');
