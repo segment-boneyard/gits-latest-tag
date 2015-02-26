@@ -1,5 +1,5 @@
 {
-  "name": "git-latest-tag",
+  "name": "gits-latest-tag",
   "version": "2.0.0",
   "description": "Gets the latest git tag of a repo on GitHub.",
   "repository": "git://github.com:segmentio/git-latest-tag.git",
